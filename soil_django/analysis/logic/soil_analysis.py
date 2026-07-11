@@ -6,7 +6,7 @@ import numpy as np
 from sklearn.metrics import accuracy_score
 
 # Load dataset and prepare
-file_path = r"C:\Users\msvic\OneDrive\Desktop\SOIL_TESTING_KIT\soil_django\analysis\data\soil_data.csv"  # Update this path
+file_path = r"C:\Users\HP\Desktop\SOIL_TESTING_KIT\soil_django\analysis\data\soil_data.csv"  # Update this path
 data = pd.read_csv(file_path)
 
 label_encoder_soil = LabelEncoder()
