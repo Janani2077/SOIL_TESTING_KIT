@@ -45,12 +45,6 @@ Machine Learning
 
 ## Installation
 
-Clone the repository
-
-```bash
-
-```
-
 Navigate to the project
 
 ```bash
@@ -96,10 +90,7 @@ python manage.py runserver
 ```
 
 Open the application at
-
-```
 http://127.0.0.1:8000/
-```
 
 ## Project Structure
 
